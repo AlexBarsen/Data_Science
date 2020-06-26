@@ -1,0 +1,360 @@
+Column,ArticleViolated,Authority,Country,Date,Fine,Org_fined,Type,Country_code
+0,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-11-25,11000,Courier Services Company,Insufficient technical and organisational measures to ensure information security,21
+1,"Art. 12 GDPR, Art. 17 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-11-22,2000,BNP Paribas Personal Finance S.A.,Insufficient fulfilment of data subjects rights,21
+2,Art. 6 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-11-21,60000,Viaqua XestiÄ‚Ĺ‚n Integral Augas de Galicia,Insufficient legal basis for data processing,23
+3,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 14 GDPR, Art. 21 GDPR",French Data Protection Authority (CNIL),FRANCE,2019-11-21,500000,Futura Internationale,Insufficient fulfilment of data subjects rights,8
+4,Art. 32 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-11-19,60000,CorporaciÄ‚Ĺ‚n radiotelevisiÄ‚Ĺ‚n espanola,Insufficient technical and organisational measures to ensure information security,23
+5,Art. 32 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-11-19,60000,Xfera Moviles S.A.,Insufficient technical and organisational measures to ensure information security,23
+6,Art. 5 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-11-14,30000,TelefÄ‚Ĺ‚nica SA,Non-compliance with general data processing principles,23
+7,Art. 6 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-11-13,3000,General Confederation of Labour ('CGT'),Insufficient legal basis for data processing,23
+8,Art. 13 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-11-07,900,TODOTECNICOS24H S.L.,Insufficient fulfilment of information obligations,23
+9,Art. 13 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-11-06,1500,Cerrajero Online,Insufficient fulfilment of information obligations,23
+10,Art. 6 GDPR,Data State Inspectorate (DSI),LATVIA,2019-11,150000,Unknown,Insufficient legal basis for data processing,14
+11,Art. 6 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-10-31,6000,Jocker Premium Invex,Insufficient legal basis for data processing,23
+12,Art. 32 GDPR,Dutch Supervisory Authority for Data Protection (AP),THE NETHERLANDS,2019-10-31,900000,UWV (Dutch employee insurance service provider),Insufficient technical and organisational measures to ensure information security,17
+13,"Art. 5 GDPR, Art. 25 GDPR",Data Protection Authority of Berlin,GERMANY,2019-10-30,14500000,Deutsche Wohnen SE,Non-compliance with general data processing principles,9
+15,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (aepd),SPAIN,2019-10-25,36000,"VODAFONE ESPANA, S.A.U.",Insufficient legal basis for data processing,23
+16,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Austrian Data Protection Authority (dsb),AUSTRIA,2019-10-23,18000000,Austrian Post,Insufficient legal basis for data processing,1
+17,Art. 28 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-10-18,9380,Major of AleksandrÄ‚Ĺ‚w Kujawski,Insufficient data processing agreement,19
+18,"Art. 12 GDPR, Art. 13 GDPR, Art. 5 (1) c) GDPR, Art. 6 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-10-17,2500,UTTIS INDUSTRIES SRL,Insufficient fulfilment of information obligations,21
+19,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (aepd),SPAIN,2019-10-16,60000,Xfera Moviles S.A.,Insufficient legal basis for data processing,23
+20,Art. 31 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-10-16,8000,Iberdrola Clientes,Lack of cooperation with the supervisory authority,23
+21,Art. 5 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-10-16,47000,ClickQuickNow,Non-compliance with general data processing principles,19
+22,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-10-09,150000,Raiffeisen Bank SA,Insufficient technical and organisational measures to ensure information security,21
+23,"Art. 32 GDPR, Art. 33 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-10-09,20000,Vreau Credit SRL,Insufficient technical and organisational measures to ensure information security,21
+24,"Art. 5 (1) c) GDPR, Art. 25 GDPR",Hellenic Data Protection Authority (HDPA),GREECE,2019-10-07,200000,Telecommunication Service Provider,Non-compliance with general data processing principles,10
+25,"Art. 21 (3) GDPR, Art. 25 GDPR",Hellenic Data Protection Authority (HDPA),GREECE,2019-10-07,200000,Telecommunication Service Provider,Non-compliance with general data processing principles,10
+26,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (aepd),SPAIN,2019-10-01,30000,Vueling Airlines,Insufficient legal basis for data processing,23
+27,"Art. 5 (1) a) GDPR, Art. 6 (1) a) GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-09-26,9000,Inteligo Media SA,Insufficient legal basis for data processing,21
+28,"Art. 15 GDPR, Art. 17 GDPR, Art. 21 GDPR",Data Protection Authority of Berlin,GERMANY,2019-09-19,195407,Delivery Hero,Insufficient fulfilment of data subjects rights,9
+29,Art. 5 (1) c) GDPR,Belgian Data Protection Authority (APD),BELGIUM,2019-09-17,10000,Merchant,Non-compliance with general data processing principles,2
+30,Art. 32 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-09-10,644780,Morele.net,Insufficient technical and organisational measures to ensure information security,19
+31,Art. 32 GDPR,Data Protection Commision of Bulgaria (KZLD),BULGARIA,2019-08-28,2600000,National Revenue Agency,Insufficient technical and organisational measures to ensure information security,3
+32,Art. 32 GDPR,Data Protection Commision of Bulgaria (KZLD),BULGARIA,2019-08-28,511000,DSK Bank,Insufficient technical and organisational measures to ensure information security,3
+33,Art. 17 GDPR,Data State Inspectorate (DSI),LATVIA,2019-08-26,7000,Online Services,Insufficient fulfilment of data subjects rights,14
+34,"Art. 5 (1) c) GDPR, Art. 9 GDPR, Art. 35 GDPR, Art. 36 GDPR",Data Protection Authority of Sweden,SWEDEN,2019-08-20,18630,School in SkellefteÄ‚Ä„,Insufficient legal basis for data processing,24
+35,Art. 6 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-08-16,60000,AVON COSMETICS,Insufficient legal basis for data processing,23
+36,"Art. 13 GDPR, Art. 37 GDPR",Austrian Data Protection Authority (dsb),AUSTRIA,2019-08,50000,Company in the medical sector,Insufficient fulfilment of information obligations,1
+37,"Art. 5 (1) GDPR, Art. 5 (2) GDPR, Art. 6 (1) GDPR, Art. 13 (1) c) GDPR, Art. 14 (1) c) GDPR",Hellenic Data Protection Authority (HDPA),GREECE,2019-07-30,150000,PWC Business Solutions,Insufficient legal basis for data processing,10
+38,Art. 32 GDPR,French Data Protection Authority (CNIL),FRANCE,2019-07-25,180000,ACTIVE ASSURANCES (car insurer),Insufficient technical and organisational measures to ensure information security,8
+39,Art. 32 GDPR,Information Commissioner (ICO),UNITED KINGDOM,2019-07-09,110390200,"Marriott International, Inc",Insufficient technical and organisational measures to ensure information security,25
+40,Art. 32 GDPR,Information Commissioner (ICO),UNITED KINGDOM,2019-07-08,204600000,British Airways,Insufficient technical and organisational measures to ensure information security,25
+41,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-07-05,3000,LEGAL COMPANY & TAX HUB SRL,Insufficient technical and organisational measures to ensure information security,21
+42,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-07-02,15000,WORLD TRADE CENTER BUCHAREST SA,Insufficient technical and organisational measures to ensure information security,21
+43,Art. 6 GDPR,Austrian Data Protection Authority (dsb),AUSTRIA,2019-07,11000,Private person (soccer coach),Insufficient legal basis for data processing,1
+44,"Art. 25 (1) GDPR, Art. 5 (1) c) GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-06-27,130000,UNICREDIT BANK SA,Insufficient technical and organisational measures to ensure information security,21
+45,Art. 33 GDPR,Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-06-25,15150,Unknown,Insufficient fulfilment of data breach notification obligations,11
+46,Art. 32 GDPR,Dutch Supervisory Authority for Data Protection (AP),THE NETHERLANDS,2019-06-18,460000,Haga Hospital,Insufficient technical and organisational measures to ensure information security,17
+47,"Art. 5 (1) c) GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 32 GDPR",French Data Protection Authority (CNIL),FRANCE,2019-06-13,20000,Employer UNIONTRAD COMPANY,Insufficient legal basis for data processing,8
+48,"Art. 5 (1) a), Art. 7 (3) GDPR",Spanish Data Protection Authority (aepd),SPAIN,2019-06-11,250000,Professional Football League (LaLiga),Insufficient fulfilment of information obligations,23
+49,"Art. 5 (1) e) GDPR, Art. 5 (2) GDPR",Danish Data Protection Authority (Datatilsynet),DENMARK,2019-06-03,200850,IDdesign A / S,Non-compliance with general data processing principles,7
+50,"Art. 5 (1) b) GDPR, Art. 6 GDPR",Belgian Data Protection Authority (APD),BELGIUM,2019-05-28,2000,Mayor,Insufficient legal basis for data processing,2
+51,Art. 32 GDPR,French Data Protection Authority (CNIL),FRANCE,2019-05-28,400000,SERGIC (Real Estate),Insufficient technical and organisational measures to ensure information security,8
+52,"Art. 6 GDPR, Art. 5 (1) b) GDPR, Art. 13 GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-05-23,92146,Organizer of SZIGET festival and VOLT festival,Insufficient legal basis for data processing,11
+53,"Art. 5 GDPR, Art. 32 GDPR, Art. 33 GDPR",Lithuanian Data Protection Authority (VDAI),LITHUANIA,2019-05-16,61500,Payment service provider UAB MisterTango,Insufficient fulfilment of data breach notification obligations,15
+54,Art. 6 GDPR,Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-05-09,1400,Police Officer,Insufficient legal basis for data processing,9
+55,Art. 15 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2019-05-06,194,Unknown,Insufficient fulfilment of data subjects rights,6
+56,Art. 32 GDPR,Norwegian Supervisory Authority (Datatilsynet),NORWAY,2019-04-29,203000,Oslo Municipal Education Department,Insufficient technical and organisational measures to ensure information security,18
+57,Art. 6 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-04-25,12950,Sports association,Insufficient legal basis for data processing,19
+58,Art. 32 GDPR,Italian Data Protection Authority (Garante),ITALY,2019-04-17,50000,Italian political party Movimento 5 Stelle,Insufficient technical and organisational measures to ensure information security,13
+59,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-04-17,9400,Unknown,Insufficient legal basis for data processing,11
+60,"Art. 5 (1) a) GDPR, Art. 9 (1) GDPR, Art. 9 (2) GDPR, Art. 6 (1) GDPR",Data Protection Commision of Bulgaria (KZLD),BULGARIA,2019-04-08,510,Medical centers,Insufficient legal basis for data processing,3
+61,"Art. 33 (1) GDPR, Art. 33 (5) GDPR, Art. 34 (1) GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-04-05,34375,Hugarian political party,Insufficient fulfilment of data breach notification obligations,11
+62,Art. 15 GDPR,Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-04-05,1900,Unknown,Insufficient fulfilment of data subjects rights,11
+63,Art. 14 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-03-26,219538,Private company working with data from publicly available sources,Insufficient fulfilment of information obligations,19
+64,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Data Protection Commision of Bulgaria (KZLD),BULGARIA,2019-03-26,5100,A.P. EOOD,Insufficient legal basis for data processing,3
+65,Art. 13 GDPR,Portuguese Data Protection Authority (CNPD),PORTUGAL,2019-03-25,2000,Unknown,Insufficient fulfilment of information obligations,20
+66,Art. 5 (1) GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2019-03-21,9704,Unknown,Non-compliance with general data processing principles,6
+67,Art. 13 GDPR,Portuguese Data Protection Authority (CNPD),PORTUGAL,2019-03-19,2000,Unknown,Insufficient fulfilment of information obligations,20
+68,"Art. 5 (1) b) GDPR, Art. 5 (1) c) GDPR, Art. 13 (3) GDPR, Art. 17 (1) GDPR, Art. 6 (4) GDRP",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-03-04,3200,Unnamed financial institution,Insufficient fulfilment of data subjects rights,11
+69,Art. 6 GDPR,Data Protection Authority of Berlin,GERMANY,2019-03,50000,N26,Insufficient legal basis for data processing,9
+70,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Norwegian Supervisory Authority (Datatilsynet),NORWAY,2019-03,170000,Bergen Municipality,Insufficient technical and organisational measures to ensure information security,18
+71,Art. 32 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2019-02-28,582,Unknown,Insufficient technical and organisational measures to ensure information security,6
+72,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-02-28,3200,Mayor's Office of the city of KecdkemÄ‚Â©t,Insufficient legal basis for data processing,11
+73,"Art. 6 GDPR, Art. 5 (1) a) GDPR",Bulgarian Commission for Personal Data Protection (KZLD),BULGARIA,2019-02-26,27100,Telecommunication service provider,Insufficient legal basis for data processing,3
+74,Art. 15 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2019-02-26,776,Unknown,Insufficient fulfilment of data subjects rights,6
+75,Art. 15 GDPR,Bulgarian Commission for Personal Data Protection (KZLD),BULGARIA,2019-02-22,500,Employer,Insufficient fulfilment of data subjects rights,3
+76,"Art. 5 (1) a) GDPR, Art. 5 (1) c) GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-02-20,1560,Debt collector,Non-compliance with general data processing principles,11
+77,"Art. 5 GDPR, Art. 32 GDPR",Data Protection Commissioner of Malta,MALTA,2019-02-18,5000,Lands Authority,Insufficient technical and organisational measures to ensure information security,16
+78,Art. 5 (1) d) GDPR,Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-02-08,1560,Bank,Non-compliance with general data processing principles,11
+79,"Art. 6 GDPR, Art. 5 GDPR",Data Protection Authority of Sachsen-Anhalt,GERMANY,2019-02-05,2500,Private person,Insufficient legal basis for data processing,9
+80,Art. 15 GDPR,Portuguese Data Protection Authority (CNPD),PORTUGAL,2019-02-05,20000,Unknown,Insufficient fulfilment of data subjects rights,20
+81,Art. 5 (1) a) GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2019-02-04,1165,Car renting company,Insufficient fulfilment of information obligations,6
+82,Art. 32 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2019-02-04,1165,Credit brokerage,Insufficient technical and organisational measures to ensure information security,6
+83,"Art. 13 GDPR, Art. 14 GDPR, Art. 6 GDPR, Art. 5 GDPR",French Data Protection Authority (CNIL),FRANCE,2019-01-21,50000000,Google Inc.,Insufficient legal basis for data processing,8
+84,"Art. 6 GDPR, Art. 5 (1) a) GDPR",Bulgarian Commission for Personal Data Protection (KZLD),BULGARIA,2019-01-17,500,Bank,Insufficient legal basis for data processing,3
+85,Art. 6 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2019-01-10,388,Employer,Insufficient legal basis for data processing,6
+86,"Art. 5 (1) a) GDPR, Art. 5 (1) c) GDPR, Art. 6 (1) GDPR, Art. 13 GDPR",Austrian Data Protection Authority (dsb),AUSTRIA,2018-12-20,2200,Private person,Insufficient legal basis for data processing,1
+87,"Art. 12 (4) GDPR, Art. 15 GDPR, Art. 18 (1) c) GDPR, Art. 13 GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2018-12-18,3200,Unknown,Insufficient fulfilment of data subjects rights,11
+88,Art. 28 (3) GDPR,Data Protection Authority of Hamburg,GERMANY,2018-12-17,5000,Kolibri Image Regina und Dirk Maass GbR,Insufficient data processing agreement,9
+89,Art. 13 GDPR,Austrian Data Protection Authority (dsb),AUSTRIA,2018-12-09,4800,Betting place,Insufficient fulfilment of information obligations,1
+90,Art. 32 GDPR,Data Protection Authority of Baden-Wuerttemberg,GERMANY,2018-11-21,20000,Knuddels.de,Insufficient technical and organisational measures to ensure information security,9
+91,Art. 15 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2018-10-25,388,Unknown,Insufficient fulfilment of data subjects rights,6
+92,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Austrian Data Protection Authority (dsb),AUSTRIA,2018-09-27,300,Private car owner,Insufficient legal basis for data processing,1
+93,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Portuguese Data Protection Authority (CNPD),PORTUGAL,2018-07-17,400000,Public Hospital,Insufficient technical and organisational measures to ensure information security,20
+94,"Art. 5 (1) b) GDPR, Art. 6 GDPR",Bulgarian Commission for Personal Data Protection (KZLD),BULGARIA,2018-04-12,500,Bank,Insufficient legal basis for data processing,3
+95,Art. 15 GDPR,Cyprian Data Protection Commissioner,CYPRUS,2019-01-01,5000,State Hospital,Insufficient fulfilment of data subjects rights,5
+96,Art. 6 GDPR,Cyprian Data Protection Commissioner,CYPRUS,2019-01-01,10000,Newspaper,Insufficient legal basis for data processing,5
+97,Art. 5(1) e) GDPR,Danish Data Protection Authority (Datatilsynet),DENMARK,2019-01-01,160000,Taxa 4x35,Non-compliance with general data processing principles,7
+98,Art. 32 GDPR,Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-01-01,80000,Unknown,Insufficient technical and organisational measures to ensure information security,9
+99,Art. 5 (1) f) GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-01-01,60000,ENDESA (energy supplyer),Insufficient legal basis for data processing,23
+100,"Art. 5 GDPR, Art. 6 GDPR",Cyprian Data Protection Commissioner,CYPRUS,2019-01-01,14000,Doctor,Insufficient legal basis for data processing,5
+101,Art. 32 GDPR,Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-01-01,80000,Unknown,Insufficient technical and organisational measures to ensure information security,9
+102,Art. 32 GDPR,Spanish Data Protection Authority (aepd),SPAIN,2019-01-01,12000,MadrileÄ‚Â±a Red de Gas,Insufficient technical and organisational measures to ensure information security,23
+103,Unknown,Austrian Data Protection Authority (dsb),AUSTRIA,2018-01-01,1800,Kebab restaurant,Insufficient legal basis for data processing,1
+105,"Art. 83 (4) a) GDPR, Art. 33 (1) GDPR, Art. 34 (1) GDPR",Data Protection Authority of Hamburg,GERMANY,2018-01-01,20000,Unknown,Insufficient fulfilment of data breach notification obligations,9
+106,Unknown,Data Protection Authority of Hamburg,GERMANY,2018-01-01,500,Unknown,Unknown,9
+107,Art. 5 (1) d) GDPR,Spanish Data Protection Authority (aepd),SPAIN,2018-01-01,5000,"VODAFONE ESPANA, S.A.U.",Non-compliance with general data processing principles,23
+108,Art. 6 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2021-01-1,3140,"UniCredit Bank Czech Republic and Slovakia, a.s.",Insufficient legal basis for data processing,6
+109,Art. 6 GDPR,Data Protection Authority of Saarland,GERMANY,2021-01-1,118,Unknown,Insufficient legal basis for data processing,9
+110,Art. 5 (1) f) GDPR,Spanish Data Protection Authority (aepd),SPAIN,2021-01-1,60000,"Debt collecting agancy (GESTIÄ‚â€śN DE COBROS, YO COBRO SL)",Insufficient legal basis for data processing,23
+111,Art. 5 (1) d) GDPR,Spanish Data Protection Authority (aepd),SPAIN,2021-01-1,27000,"VODAFONE ESPANA, S.A.U.",Insufficient fulfilment of data subjects rights,23
+112,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Spanish Data Protection Authority (aepd),SPAIN,2021-01-1,12000,Restaurant,Insufficient legal basis for data processing,23
+117,Art. 32 GDPR,Slovak Data Protection Office,SLOVAKIA,2021-01-1,40000,Slovak Telekom,Insufficient technical and organisational measures to ensure information security,22
+118,Art. 32 GDPR,Slovak Data Protection Office,SLOVAKIA,2021-01-1,50000,Social Insurance Agency,Insufficient technical and organisational measures to ensure information security,22
+119,"Art. 6 GDPR, Art. 7 GDPR",Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2021-01-1,588,Alza.cz a.s.,Insufficient legal basis for data processing,6
+120,Art. 32 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2021-01-1,980,Individual entrepreneur - no further details published,Insufficient technical and organisational measures to ensure information security,6
+0,Art. 28 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-10-18,9380,Polish Mayor,Non-compliance with lawful basis for data processing,19
+1,"Art. 12 GDPR, Art. 13 GDPR, Art. 5 (1) c) GDPR, Art. 6 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-10-17,2500,UTTIS INDUSTRIES,Information obligation non-compliance,21
+2,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2019-10-16,60000,Xfera Moviles S.A.,Non-compliance with lawful basis for data processing,23
+3,Art. 31 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-10-16,8000,Iberdrola Clientes,Failure to cooperate with supervisory authority,23
+4,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-10-09,150000,Raiffeisen Bank SA,Failure to implement sufficient measures to ensure information security,21
+5,"Art. 32 GDPR, Art. 33 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-10-09,20000,Vreau Credit SRL,Failure to implement sufficient measures to ensure information security,21
+6,"Art. 5 (1) c) GDPR, Art. 25 GDPR",Hellenic Data Protection Authority (HDPA),GREECE,2019-10-07,200000,Telecommunication Service Provider,Failure to comply with data processing principles,10
+7,"Art. 21 (3) GDPR, Art. 25 GDPR",Hellenic Data Protection Authority (HDPA),GREECE,2019-10-07,200000,Telecommunication Service Provider,Failure to comply with data processing principles,10
+8,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2019-10-01,30000,Vueling Airlines,Non-compliance with lawful basis for data processing,23
+9,"Art. 5 (1) a) GDPR, Art. 6 (1) a) GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-09-26,9000,Inteligo Media SA,Non-compliance with lawful basis for data processing,21
+10,"Art. 15 GDPR, Art. 17 GDPR, Art. 21 GDPR",Data Protection Authority of Berlin,GERMANY,2019-09-19,195407,Delivery Hero,Non-compliance with subjects' rights protection safeguards,9
+11,Art. 5 (1) c) GDPR,Belgian Data Protection Authority (APD),BELGIUM,2019-09-19,10000,Merchant,Failure to comply with data processing principles,2
+12,Art. 32 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-09-10,644780,Morele.net,Failure to implement sufficient measures to ensure information security,19
+13,"Art. 13 GDPR, Art. 37 GDPR",Austrian Data Protection Authority (DSB),AUSTRIA,2019-08-30,50000,Medical Company,Information obligation non-compliance,1
+14,Art. 32 GDPR,Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-08-28,2600000,National Revenue Agency,Failure to implement sufficient measures to ensure information security,3
+15,Art. 32 GDPR,Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-08-28,511000,DSK Bank,Failure to implement sufficient measures to ensure information security,3
+16,Art. 17 GDPR,Data State Inspectorate (DSI),LATVIA,2019-08-26,7000,Online services provider,Non-compliance with subjects' rights protection safeguards,14
+17,"Art. 5 (1) c) GDPR, Art. 9 GDPR, Art. 35 GDPR, Art. 36 GDPR",Data Protection Authority of Sweden,SWEDEN,2019-08-20,18630,SkellefteÄ‚Ä„ school,Non-compliance with lawful basis for data processing,24
+18,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-08-16,60000,Avon Cosmetics,Non-compliance with lawful basis for data processing,23
+19,Art. 6 GDPR,Austrian Data Protection Authority (DSB),AUSTRIA,2019-07-31,11000,Private individual (football coach),Non-compliance with lawful basis for data processing,1
+20,"Art. 5 (1) GDPR, Art. 5 (2) GDPR, Art. 6 (1) GDPR, Art. 13 (1) c) GDPR, Art. 14 (1) c) GDPR",Hellenic Data Protection Authority (HDPA),GREECE,2019-07-30,150000,PWC Business Solutions,Non-compliance with lawful basis for data processing,10
+21,Art. 32 GDPR,French Data Protection Authority (CNIL),FRANCE,2019-07-25,180000,Active Assurances,Failure to implement sufficient measures to ensure information security,8
+22,Art. 32 GDPR,Information Commissioner (ICO),UNITED KINGDOM,2019-07-09,0,"Marriott International, Inc",Failure to implement sufficient measures to ensure information security,25
+23,Art. 32 GDPR,Information Commissioner (ICO),UNITED KINGDOM,2019-07-08,0,British Airways,Failure to implement sufficient measures to ensure information security,25
+24,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-07-05,3000,Legal Company & Tax Hub SRL,Failure to implement sufficient measures to ensure information security,21
+25,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-07-02,15000,World Trade Center Bucharest SA,Failure to implement sufficient measures to ensure information security,21
+26,"Art. 25 (1) GDPR, Art. 5 (1) c) GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-06-27,130000,Unicredit Bank SA,Failure to implement sufficient measures to ensure information security,21
+27,Art. 33 GDPR,Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-06-25,15150,Budapest Police Command,Information obligation non-compliance,11
+28,Art. 32 GDPR,Dutch Supervisory Authority for Data Protection (AP),NETHERLANDS,2019-06-18,460000,Hague Hospital,Failure to implement sufficient measures to ensure information security,17
+29,"Art. 5 (1) c) GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 32 GDPR",French Data Protection Authority (CNIL),FRANCE,2019-06-13,20000,Uniontrad Company,Non-compliance with lawful basis for data processing,8
+30,"Art. 5 (1) a), Art. 7 (3) GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2019-06-11,250000,Professional Football League (LaLiga),Information obligation non-compliance,23
+31,"Art. 5 (1) e) GDPR, Art. 5 (2) GDPR",Danish Data Protection Authority (Datatilsynet),DENMARK,2019-06-03,200850,IDdesign A/S,Failure to comply with data processing principles,7
+32,"Art. 5 (1) b) GDPR, Art. 6 GDPR",Belgian Data Protection Authority (APD),BELGIUM,2019-05-28,2000,A mayor,Several,2
+33,Art. 32 GDPR,French Data Protection Authority (CNIL),FRANCE,2019-05-28,400000,SERGIC,Failure to implement sufficient measures to ensure information security,8
+34,"Art. 6 GDPR, Art. 5 (1) b) GDPR, Art. 13 GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-05-23,92146,Organizer of SZIGET festival and VOLT festival,Non-compliance with lawful basis for data processing and information obligation non-compliance,11
+35,"Art. 5 GDPR, Art. 32 GDPR, Art. 33 GDPR",Lithuanian Data Protection Authority (VDAI),LITHUANIA,2019-05-16,61500,UAB MisterTango,Failure to implement sufficient measures to ensure information security and information obligation non-compliance,15
+36,"Art. 5 (1) a) GDPR, Art. 5 (1) b) GDPR, Art. 32 (1) GDPR",Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2019-05-13,3105,Not known,Not known,6
+37,Art. 6 GDPR,Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-05-09,1400,Police Officer,Non-compliance with lawful basis for data processing,9
+38,Art. 15 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2019-05-06,194,Public utility company,Non-compliance with lawful basis for data processing,6
+39,Art. 32 GDPR,Norwegian Supervisory Authority (Datatilsynet),NORWAY,2019-04-29,203000,Oslo Municipal Education Department,Failure to implement sufficient measures to ensure information security,18
+40,Art. 6 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-04-25,12950,Sports association,Non-compliance with lawful basis for data processing,19
+41,Art. 32 GDPR,Italian Data Protection Authority (Garante),ITALY,2019-04-24,50000,Movimento 5 Stelle Party,Failure to implement sufficient measures to ensure information security,13
+42,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-04-17,9400,Not disclosed,Non-compliance with lawful basis for data processing,11
+43,"Art. 5 (1) a) GDPR, Art. 9 (1) GDPR, Art. 9 (2) GDPR, Art. 6 (1) GDPR",Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-04-08,510,Medical service providers,Non-compliance with lawful basis for data processing,3
+44,"Art. 33 (1) GDPR, Art. 33 (5) GDPR, Art. 34 (1) GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-04-05,34375,Political Party - Undisclosed,Information obligation non-compliance,11
+45,Art. 15 GDPR,Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-04-04,1900,Not disclosed,Non-compliance with subjects' rights protection safeguards,11
+46,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Norwegian Supervisory Authority (Datatilsynet),NORWAY,2019-03-29,170000,Bergen Municipality,Failure to implement sufficient measures to ensure information security,18
+47,Art. 14 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-03-26,219538,Private company,Information obligation non-compliance,19
+48,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-03-26,5100,A.P. EOOD,Non-compliance with lawful basis for data processing,3
+49,Art. 15 GDPR,Portuguese Data Protection Authority (CNPD),PORTUGAL,2019-03-25,2000,Not available,Non-compliance with subjects' rights protection safeguards,20
+50,"Art. 5 (1) c) GDPR, Art. 5 (1) e) GDPR",Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2019-03-21,9704,Not available,Failure to comply with data processing principles,6
+51,"Art. 5 (1) b) GDPR, Art. 5 (1) c) GDPR, Art. 13 (3) GDPR, Art. 17 (1) GDPR, Art. 6 (4) GDRP",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-03-04,3200,Not disclosed,Non-compliance with subjects' rights protection safeguards,11
+52,Art. 6 GDPR,Data Protection Authority of Berlin,GERMANY,2019-03-01,50000,N26,Non-compliance with lawful basis for data processing,9
+53,Art. 32 GDPR,Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2019-02-28,582,Not available,Failure to implement sufficient measures to ensure information security,6
+54,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-02-28,3200,KecskemÄ‚Â©t Mayor's Office,Non-compliance with lawful basis for data processing,11
+55,"Art. 6 GDPR, Art. 5 (1) a) GDPR",Bulgarian Commission for Personal Data Protection (KZLD),BULGARIA,2019-02-26,27100,Telecommunication service provider,Non-compliance with lawful basis for data processing,3
+56,Art. 15 GDPR,Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2019-02-26,776,Not available,Non-compliance with subjects' rights protection safeguards,6
+57,Art. 15 GDPR,Bulgarian Commission for Personal Data Protection (KZLD),BULGARIA,2019-02-22,500,Unknown company,Non-compliance with subjects' rights protection safeguards,3
+58,"Art. 5 (1) a) GDPR, Art. 5 (1) c) GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-02-20,1560,Unknown company,Failure to comply with data processing principles,11
+59,"Art. 5 GDPR, Art. 32 GDPR",Data Protection Commissioner of Malta,MALTA,2019-02-18,5000,Lands Authority,Failure to implement sufficient measures to ensure information security,16
+60,Art. 5 (1) d) GDPR,Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-02-08,1560,A bank,Failure to comply with data processing principles,11
+61,"Art. 6 GDPR, Art. 5 GDPR",Data Protection Authority of Sachsen-Anhalt,GERMANY,2019-02-05,2500,Private individual,Non-compliance with lawful basis for data processing,9
+62,Art. 15 GDPR,Portuguese Data Protection Authority (CNPD),PORTUGAL,2019-02-05,20000,Not available,Non-compliance with lawful basis for data processing,20
+63,Art. 5 (1) a) GDPR,Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2019-02-04,1165,Car renting company,Failure to implement sufficient measures to ensure information security,6
+64,Art. 32 GDPR,Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2019-02-04,1165,Credit brokerage,Failure to implement sufficient measures to ensure information security,6
+65,"Art. 13 GDPR, Art. 14 GDPR, Art. 6 GDPR, Art. 4 GDPR, Art. 5 GDPR",French Data Protection Authority (CNIL),FRANCE,2019-01-21,50000000,Google Inc.,Several,8
+66,"Art. 6 GDPR, Art. 5 (1) a) GDPR",Bulgarian Commission for Personal Data Protection (KZLD),BULGARIA,2019-01-17,500,Bank,Non-compliance with lawful basis for data processing,3
+67,Art. 6 GDPR,Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2019-01-10,388,Company,Non-compliance with lawful basis for data processing,6
+68,"Art. 5 GDPR, Art. 6 GDPR",Cypriot Data Protection Commissioner,CYPRUS,2019-01-01,14000,Doctor,Non-compliance with lawful basis for data processing,5
+69,"Art. 5 (1) a) GDPR, Art. 5 (1) c) GDPR, Art. 6 (1) GDPR, Art. 13 GDPR",Austrian Data Protection Authority (DSB),AUSTRIA,2018-12-20,2200,Private individual,Non-compliance with lawful basis for data processing,1
+70,"Art. 12 (4) GDPR, Art. 15 GDPR, Art. 18 (1) c) GDPR, Art. 13 GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2018-12-18,3200,Not disclosed,Failure to implement sufficient measures to ensure information security,11
+71,Art. 28 (3) GDPR,Data Protection Authority of Hamburg,GERMANY,2018-12-17,5000,Kolibri Image Regina und Dirk Maass GbR,Failure to collect sufficient data processing consent,9
+72,Art. 13 GDPR,Austrian Data Protection Authority (DSB),AUSTRIA,2018-12-12,4800,Bookmaker,Information obligation non-compliance,1
+73,Art. 32 GDPR,Data Protection Authority of Baden-Wuerttemberg,GERMANY,2018-11-21,20000,Knuddels.de,Failure to implement sufficient measures to ensure information security,9
+74,Art. 15 GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2018-10-25,388,Not available,Non-compliance with subjects' rights protection safeguards,6
+75,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Austrian Data Protection Authority (DSB),AUSTRIA,2018-09-27,300,Private individual,Non-compliance with lawful basis for data processing,1
+76,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Portuguese Data Protection Authority (CNPD),PORTUGAL,2018-07-17,400000,Hospital,Failure to implement sufficient measures to ensure information security,20
+77,"Art. 5 (1) b) GDPR, Art. 6 GDPR",Bulgarian Commission for Personal Data Protection (KZLD),BULGARIA,2018-05-12,500,Bank,Non-compliance with lawful basis for data processing,3
+78,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Austrian Data Protection Authority (DSB),AUSTRIA,2019-10-23,18000000,Austrian Post,Non-compliance with lawful basis for data processing,1
+79,Art. 32 GDPR,Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-07-30,80000,Unknown,Failure to implement sufficient measures to ensure information security,9
+80,Art. 32 GDPR,Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-10-17,80000,Unknown,Failure to implement sufficient measures to ensure information security,9
+81,"Art. 5 GDPR, Art. 25 GDPR",Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-10-30,14500000,Deutsche Wohnen SE,Failure to comply with data processing principles,9
+82,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2019-10-25,36000,Vodafone Espana,Non-compliance with lawful basis for data processing,23
+83,Art.14 GDPR,Personal Data Protection Office,POLAND,2019-03-29,220000,Bisnode,Non-compliance with the right of consent,19
+84,Art.14 GDPR,Information Commissioner,UNITED KINGDOM,2019-06-24,100000,EE,Non-compliance with the right of consent,25
+85,Unknown,Information Commissioner,UNITED KINGDOM,2019-07-10,0,Driver and Vehicle Licensing Agency (DVLA),Non-compliance (Data Breach),25
+86,Data Protection Act 2018,Information Commissioner,UNITED KINGDOM,2019-07-16,80000,Life at Parliament View,Non-compliance (Data Breach),25
+87,Art.14 of the GDPR,Information Commissioner,UNITED KINGDOM,2019-02-01,140000,Leave.EU & GoSkippy,Non-compliance with the right of consent,25
+88,Art. 28 of the GDPR,Data Protection Authority,GERMANY,2019-01-23,5000,Small shipping company,https://dataprivacy.foxrothschild.com/2019/01/articles/european-union/hessian-dpa-fines-shipping-company-for-missing-data-processing-agreement/,9
+89,Art. 5 (1) d) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2021-01-01,5000,Vodafone Espana,Failure to comply with processing principles,23
+90,Art. 5 (1) f) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2021-01-01,60000,Gestion De Cobros Yo Cobro SL,Non-compliance with lawful basis for data processing,23
+91,Art. 5 (1) d) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2021-01-01,27000,Vodafone Espana,Non-compliance with subjects' rights protection safeguards,23
+92,Art. 5 (1) f) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2021-01-01,60000,ENDESA,Non-compliance with lawful basis for data processing,23
+93,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2021-01-01,12000,Restaurant,Non-compliance with lawful basis for data processing,23
+99,Art. 6 GDPR,Data Protection Authority of Hamburg,GERMANY,2021-01-01,500,Unknown,Non-compliance with lawful basis for data processing,9
+101,"Art. 83 (4) a) GDPR, Art. 33 (1) GDPR, Art. 34 (1) GDPR",Data Protection Authority of Hamburg,GERMANY,2018-12-01,20000,Unknown,Information obligation non-compliance,9
+102,Art. 32 GDPR,Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-07-30,80000,Unknown,Failure to implement sufficient measures to ensure information security,9
+103,"Art. 5 GDPR, Art. 25 GDPR",Data Protection Authority of Berlin,GERMANY,2019-10-01,0,Deutsche Wohnen SE,Failure to comply with data processing principles,9
+104,Unknown,Austrian Data Protection Authority (DSB),AUSTRIA,2018-11-01,1800,Restaurant,Unknown,1
+105,Art. 15 GDPR,Cypriot Data Protection Commissioner,CYPRUS,2019-03-01,5000,State Hospital,Non-compliance with subjects' rights protection safeguards,5
+106,Art. 5(1) e) GDPR,Danish Data Protection Authority (Datatilsynet),DENMARK,2019-03-01,160000,Taxa 4x35,Failure to comply with processing principles,7
+107,Art. 32 GDPR,Dutch Supervisory Authority for Data Protection (AP),NETHERLANDS,2019-10-31,900000,UWV - Insurance provider,Failure to implement sufficient measures to ensure information security,17
+108,Art. 5 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2019-10-16,47000,ClickQuickNow,Failure to comply with processing principles,19
+109,Art. 32 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-01-21,12000,MadrileÄ‚Â±a Red de Gas,Failure to implement sufficient measures to ensure information security,23
+110,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-10-31,6000,Jocker Premium Invex,Non-compliance with lawful basis for data processing,23
+111,Art. 13 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-06,1500,Cerrajero Online,Information obligation non-compliance,23
+112,Art. 13 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-07,900,TODOTECNICOS24H S.L.,Information obligation non-compliance,23
+113,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-13,3000,General Confederation of Labour,Non-compliance with lawful basis for data processing,23
+114,Art. 5 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-14,30000,TelefÄ‚Ĺ‚nica SA,Non-compliance with lawful basis for data processing,23
+115,Art. 32 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-19,60000,Corporacion RTVE,Failure to implement sufficient measures to ensure information security,23
+116,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-21,60000,Viaqua XestiÄ‚Ĺ‚n SA,Non-compliance with lawful basis for data processing,23
+117,"Art. 12 GDPR, Art. 17 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-11-22,2000,BNP Paribas SA,Information obligation non-compliance,21
+118,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-11-25,11000,Fan Courier Express SRL,Failure to implement sufficient measures to ensure information security,21
+119,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 14 GDPR, Art. 21 GDPR",French Data Protection Authority (CNIL),FRANCE,2019-11-21,500000,Futura Internationale,Non-compliance with subjects' rights protection safeguards,8
+120,Art. 6 GDPR,Data State Inspectorate (DSI),LATVIA,2019-11-01,150000,Unknown,Non-compliance with lawful basis for data processing,14
+121,Art. 6 GDPR,Cypriot Data Protection Commissioner,CYPRUS,2019-03-01,10000,Newspaper,Non-compliance with lawful basis for data processing,5
+122,Art. 6 GDPR,Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2021-01-01,3140,UniCredit Bank,Non-compliance with lawful basis for data processing,6
+123,"Art. 6 GDPR, Art. 7 GDPR",Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2021-01-01,588,Alza.cz a.s.,Non-compliance with lawful basis for data processing,6
+124,Art. 32 GDPR,Czech Data Protection Authority (UOOU),CZECH REPUBLIC,2021-01-01,980,Individual entrepreneur,Failure to implement sufficient measures to ensure information security,6
+125,Art. 13 GDPR,Portuguese Data Protection Authority (CNPD),PORTUGAL,2019-03-19,2000,Not known,Information obligation non-compliance,20
+126,Art. 32 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-19,60000,Xfera Moviles S.A.,Failure to implement sufficient measures to ensure information security,23
+127,Art. 32 GDPR,Slovak Data Protection Office,SLOVAKIA,2019-09-27,40000,Slovak Telekom,Failure to implement sufficient measures to ensure information security,22
+128,Art. 32 GDPR,Slovak Data Protection Office,SLOVAKIA,2019-11-13,50000,Social Insurance Agency,Failure to implement sufficient measures to ensure information security,22
+129,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-11-29,20000,SC CNTAR TAROM SA,Failure to implement sufficient measures to ensure information security,21
+130,Art. 25 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-11-29,80000,ING Bank N.V. Amsterdam,Failure to comply with data processing principles,21
+131,"Art. 12 GDPR, Art. 15 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-11-29,2500,Royal President S.R.L.,Information obligation non-compliance,21
+132,Art. 6 GDPR,Belgian Data Protection Authority (APD),BELGIUM,2019-11-28,5000,City councilor,Non-compliance with lawful basis for data processing,2
+133,Art. 6 GDPR,Belgian Data Protection Authority (APD),BELGIUM,2019-11-28,5000,Mayor,Non-compliance with lawful basis for data processing,2
+134,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-12-02,10000,Ikea IbÄ‚Â©rica,Non-compliance with lawful basis for data processing,23
+135,Art. 5 GDPR,Data Protection Authority of Rheinland-Pfalz,GERMANY,2019-12-03,105000,Rheinland-Pfalz Hospital,Non-compliance with lawful basis for data processing,9
+136,Art. 37 GDPR,The Federal Commissioner for Data Protection and Freedom of Information (BfDI),GERMANY,2019-12-09,10000,Rapidata GmbH,No data protection officer appointed,9
+137,"<a href=""https://www.privacy-regulation.eu/en/32.htm"">Art. 32 GDPR</a>",The Federal Commissioner for Data Protection and Freedom of Information (BfDI),GERMANY,2019-12-09,9550000,1&1 Telecom GmbH,Failure to implement sufficient measures to ensure information security,9
+138,Art. 6 GDPR,Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-07-24,28160,Debt collection agency,Non-compliance with lawful basis for data processing,3
+139,Art. 6 (1) GDPR,Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-10-01,15100,Town of Kerepes,Non-compliance with lawful basis for data processing,11
+140,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-28,75000,CurenergÄ‚Â­a Comercializador de Ä‚Ĺźltimo recurso,Non-compliance with lawful basis for data processing,23
+141,Art. 6 (1) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-10-19,21000,Vodafone Espana,Non-compliance with lawful basis for data processing,23
+142,Art. 5 (1) f) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-04-01,36000,Vodafone Espana,Non-compliance with lawful basis for data processing,23
+143,Art. 32 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-06-24,48000,Vodafone ONO,Failure to implement sufficient measures to ensure information security,23
+144,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2019-06-24,30000,Vodafone Espana,Failure to implement sufficient measures to ensure information security,23
+145,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-03-22,40000,Vodafone Espana,Non-compliance with lawful basis for data processing,23
+146,Art. 5 (1) c) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-04-15,3600,"AMADOR RECREATIVOS, S.L",Non-compliance with lawful basis for data processing,23
+147,Art. 5 (1) c) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-05-08,9000,Private individual,Non-compliance with lawful basis for data processing,23
+148,Art. 5 (1) c) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-04-08,20000,Private individual,Non-compliance with lawful basis for data processing,23
+149,Art. 5 (1) a) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-05-06,48000,TelefÄ‚Ĺ‚nica SA,Non-compliance with lawful basis for data processing,23
+150,"Art. 12 GDPR, Art. 15 GDPR, Art. 17 GDPR",Belgian Data Protection Authority (APD),BELGIUM,2019-12-16,2000,Nursing Care Organization,Information obligation non-compliance,2
+151,Art. 6 GDPR,Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-12-11,1500,Unknown,Non-compliance with lawful basis for data processing,11
+152,Art. 15 GDPR,Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-11-18,90,Hospital,Non-compliance with subjects' rights protection safeguards,11
+153,"Art. 32 GDPR, Art. 33 GDPR",Hungarian National Authority for Data Protection and the Freedom of Information (NAIH),HUNGARY,2019-10-28,7400,Military Hospital,Information obligation non-compliance,11
+154,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2019-12-10,1600,Megastar SL,Non-compliance with lawful basis for data processing,23
+155,Art. 13 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-12-03,1500,Cerrajeria Verin S.L.,Information obligation non-compliance,23
+156,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-12-03,5000,Linea Directa Aseguradora,Non-compliance with lawful basis for data processing,23
+157,Art. 5 (1) c) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-19,6000,Sports Bar,Non-compliance with lawful basis for data processing,23
+158,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-11-06,60000,Vodafone Espana,Non-compliance with lawful basis for data processing,23
+159,Art. 5 (1) f) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2019-10-23,60000,Vodafone Espana,Failure to implement sufficient measures to ensure information security,23
+160,"<a href=""https://www.privacy-regulation.eu/en/32.htm"">Art. 32 GDPR</a>",Spanish Data Protection Authority (AEPD),SPAIN,2019-12-10,5000,"Shop Macoyn, S.L.",Failure to implement sufficient measures to ensure information security,23
+161,"<a href=""https://www.privacy-regulation.eu/en/32.htm"">Art. 32 GDPR</a>",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-12-18,2000,Telekom Romania,Failure to implement sufficient measures to ensure information security,21
+162,Art. 58 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-12-16,2000,Globus Score SRL,Non-cooperation with Data Protection Authority,21
+163,Art. 58 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-12-02,2000,Nicola Medical Team 17 SRL,Non-cooperation with Data Protection Authority,21
+164,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-11-29,500,Homeowners Association,Failure to implement sufficient measures to ensure information security,21
+165,Art. 58 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-11-26,3000,Modern Barber,Non-cooperation with Data Protection Authority,21
+166,"<a href=""https://www.privacy-regulation.eu/en/32.htm"">Art. 32 GDPR</a>",Information Commissioner (ICO),UNITED KINGDOM,2019-12-20,320000,Doorstep Dispensaree,Failure to implement sufficient measures to ensure information security,25
+167,Art. 5 GDPR,Dutch Supervisory Authority for Data Protection (AP),NETHERLANDS,2019-10-31,50000,Menzis,Non-compliance with lawful basis for data processing,17
+168,Art. 21 GDPR,Hellenic Data Protection Authority (HDPA),GREECE,2019-10-18,20000,Wind Hellas Telecommunications,Non-compliance with subjects' rights protection safeguards,10
+169,Art. 6 GDPR,Data Protection Authority of Sweden,SWEDEN,2019-12-16,35000,Nusvar AB,Non-compliance with lawful basis for data processing,24
+170,"Art. 6 GDPR, Art. 12 GDPR, Art. 13 GDPR",Belgian Data Protection Authority (APD),BELGIUM,2019-12-17,15000,Legal information wesbite,Non-compliance with lawful basis for data processing,2
+171,"Art 6 (1) GDPR, Art 58 (2) e) GDPR, Art 83 (5) a) GDPR",Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-09-03,28100,National Revenue Agency,Non-compliance with lawful basis for data processing,3
+172,Art. 6 (1) GDPR,Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-09-03,11760,Commercial representative of telecommunication service provider,Non-compliance with lawful basis for data processing,3
+173,Art. 6 GDPR,Bulgarian Commission for Personal Data Protection (KZLD),BULGARIA,2019-09-03,5113,Telecommunication service provider,Non-compliance with lawful basis for data processing,3
+174,Art. 6 (1) GDPR,Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-10-08,5112,Interior Ministry,Non-compliance with lawful basis for data processing,3
+175,"Art. 12 (4) GDPR, Art. 15 GDPR",Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-09-03,1121,Private enforcement agent,Non-compliance with subjects' rights protection safeguards,3
+176,"Art. 6 (1) GDPR, Art. 25 (1) GDPR",Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-09-03,1022,Telecom company,Non-compliance with lawful basis for data processing,3
+177,"Art. 12 (3) GDPR, Art. 15 (1) GDPR",Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-10-28,511,Employer,Non-compliance with subjects' rights protection safeguards,3
+178,Art. 31 GDPR,Data Protection Commission of Bulgaria (KZLD),BULGARIA,2019-10-07,511,BD,Lack of cooperation with Data Protection Authority,3
+179,Art. 6 GDPR,Data Protection Authority of Mecklenburg-Vorpommern,GERMANY,2019-08-06,800,Police Officer,Non-compliance with lawful basis for data processing,9
+180,Art. 6 GDPR,Data Protection Authority of Saarland,GERMANY,2019-01-01,118,Unknown,Non-compliance with lawful basis for data processing,9
+181,Art. 5 GDPR,Data Protection Authority of Niedersachsen,GERMANY,2019-12-02,294000,Unknown,Failure to comply with data processing principles,9
+182,Art. 32 GDPR,Cypriot Data Protection Commissioner,CYPRUS,2020-01-13,9000,Government agency,Failure to implement sufficient measures to ensure information security,5
+183,Art. 6 GDPR,Cypriot Data Protection Commissioner,CYPRUS,2020-01-13,1000,M.L. Pro.Fit Solutions LTD,Non-compliance with lawful basis for data processing,5
+184,"Art. 6 GDPR, Art. 9 GDPR",Cypriot Data Protection Commissioner,CYPRUS,2019-10-25,70000,LGS Handling Ltd,Non-compliance with lawful basis for data processing,5
+185,"Art. 6 GDPR, Art. 9 GDPR",Cypriot Data Protection Commissioner,CYPRUS,2019-10-25,10000,Louis Travel Ltd,Non-compliance with lawful basis for data processing,5
+186,"Art. 6 GDPR, Art. 9 GDPR",Cypriot Data Protection Commissioner,CYPRUS,2019-10-25,2000,Louis Aviation Ltd,Non-compliance with lawful basis for data processing,5
+187,"Art. 5 (1) a), (2) GDPR",Hellenic Data Protection Authority (HDPA),GREECE,2020-01-13,15000,Allseas Marine S.A.,Non-compliance with lawful basis for data processing,10
+188,"Art. 5 GDPR, Art. 6 GDPR, Art. 17 GDPR, Art. 21 GDPR",Italian Data Protection Authority (Garante),ITALY,2020-01-17,8500000,Eni Gas e Luce,Non-compliance with lawful basis for data processing,13
+189,"Art. 5 GDPR, Art. 6 GDPR",Italian Data Protection Authority (Garante),ITALY,2020-01-17,3000000,Eni Gas e Luce,Non-compliance with lawful basis for data processing,13
+190,"Art. 5 GDPR, Art. 6 GDPR, Art. 7 GDPR, Art. 21 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2020-01-14,6000,SC Enel Energie S.A.,Non-compliance with lawful basis for data processing,21
+191,"Art. 5 (1) GDPR, Art. 6 GDPR, Art. 7 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-12-13,5000,Entirely Shipping & Trading S.R.L.,Non-compliance with lawful basis for data processing,21
+192,"Art. 5 (1) GDPR, Art. 6 GDPR, Art. 7 GDPR, Art. 9 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-12-13,5000,Entirely Shipping & Trading S.R.L.,Non-compliance with lawful basis for data processing,21
+193,"Art. 5 GDPR, Art. 25 GDPR, Art. 32 GDPR, Art. 33 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2019-12-10,14000,Hora Credit IFN SA,Non-compliance with lawful basis for data processing,21
+194,Art. 58 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-01-09,3000,Vodafone Espana,Non-cooperation with Data Protection Authority,23
+195,Art. 5 (1) f) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-01-07,44000,Vodafone Espana,Failure to comply with data processing principles,23
+196,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-01-07,75000,EDP EspaÄ‚Â±a S.A.U.,Non-compliance with lawful basis for data processing,23
+197,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-01-07,75000,"EDP Comercializadora, S.A.U.",Non-compliance with lawful basis for data processing,23
+198,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-01-07,10000,AsociaciÄ‚Ĺ‚n de MÄ‚Â©dicos DemÄ‚Ĺ‚cratas,Non-compliance with lawful basis for data processing,23
+199,Art. 58(2) GDPR,Italian Data Protection Authority (Garante),ITALY,2020-02-01,27802946,TIM - Telecom Provider,Non-cooperation with Data Protection Authority,13
+200,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-03,60000,Xfera Moviles S.A.,Non-compliance with lawful basis for data processing,23
+201,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-03,75000,"Vodafone EspaÄ‚Â±a, S.A.U.",Non-compliance with lawful basis for data processing,23
+202,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-03,60000,"Vodafone EspaÄ‚Â±a, S.A.U.",Non-compliance with lawful basis for data processing,23
+203,Art. 5 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-02-03,50000,"Vodafone EspaÄ‚Â±a, S.A.U.",Non-compliance with lawful basis for data processing,23
+204,"Art. 5 GDPR, Art. 6 GDPR, Art. 21 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-03,20000,Iberia Lineas Aereas,Non-compliance with lawful basis for data processing,23
+205,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-03,75000,"Vodafone EspaÄ‚Â±a, S.A.U.",Non-compliance with lawful basis for data processing,23
+206,"Art. 5 GDPR, Art. 6 GDPR, Art. 21 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-03,6670,Banco Bilbao,Non-compliance with lawful basis for data processing,23
+207,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-03,5000,Queseria Artesenal Ameco S.L.,Non-compliance with lawful basis for data processing,23
+208,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-03,800,Private person,Non-compliance with lawful basis for data processing,23
+209,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-04,1500,CafeterÄ‚Â­a Nagasaki,Non-compliance with lawful basis for data processing,23
+210,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-01-14,3600,"Zhang Bordeta 2006, S.L.",Non-compliance with lawful basis for data processing,23
+211,"Art. 5 GDPR, Art. 6 GDPR",Italian Data Protection Authority (Garante),ITALY,2020-01-15,10000,Francavilla Fontana,Non-compliance with lawful basis for data processing,13
+212,Art. 37 GDPR,Data Protection Authority of Hamburg,GERMANY,2019-01-01,51000,Facebook,Failure to appoint a data protection officer,9
+213,Art. 32 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-02-28,48000,Vodafone ONO,Failure to implement sufficient measures to ensure information security,23
+214,Art. 5 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-02-27,120000,Vodafone EspaÄ‚Â±a,Non-compliance with lawful basis for data processing,23
+215,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-02-25,48000,HM Hospitales,Non-compliance with lawful basis for data processing,23
+216,Art. 13 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-02-18,1500,Mymoviles Europa 2000,Insufficient fulfilment of information obligations,23
+217,Art. 5 (1) f) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-02-14,2500,Grupo Valsor Y Losan,Non-compliance with lawful basis for data processing,23
+218,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-02-14,3000,Colegio Arenales Carabanchel,Non-compliance with lawful basis for data processing,23
+219,Art. 6 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-02-14,50000,Iberdrola Clientes,Non-compliance with lawful basis for data processing,23
+220,Art. 32 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-02-14,42000,Vodafone EspaÄ‚Â±a,Failure to implement sufficient measures to ensure information security,23
+221,Art. 32 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-02-14,30000,Xfera Moviles S.A.,Failure to implement sufficient measures to ensure information security,23
+222,"Art. 5 GDPR, Art. 6 GDPR",Spanish Data Protection Authority (AEPD),SPAIN,2020-03-03,24000,Vodafone EspaÄ‚Â±a,Non-compliance with lawful basis for data processing,23
+223,Art. 5 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-03-03,40000,Vodafone EspaÄ‚Â±a,Non-compliance with lawful basis for data processing,23
+224,Art. 32 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-03-03,42000,Vodafone EspaÄ‚Â±a,Failure to implement sufficient measures to ensure information security,23
+225,Art. 13 GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-03-03,1800,Solo Embrague,Insufficient fulfilment of information obligations,23
+226,"Art. 5 GDPR, Art. 6 GDPR",Dutch Supervisory Authority for Data Protection (AP),NETHERLANDS,2020-03-03,525000,Royal Dutch Tennis Assoc.,Non-compliance with lawful basis for data processing,17
+227,Art. 5 GDPR,Polish National Personal Data Protection Office (UODO),POLAND,2020-03-04,4600,School in Gdansk,Non-compliance with lawful basis for data processing,19
+228,Art. 5 GDPR,Private person,SPAIN,2020-03-06,4000,Spanish Data Protection Authority (AEPD),Non-compliance with lawful basis for data processing,23
+229,"Art. 5 GDPR, Art. 6 GDPR",Italian Data Protection Authority (Garante),ITALY,2020-03-06,4000,Liceo Scientifico Nobel di Torre del Greco,Non-compliance with lawful basis for data processing,13
+230,"Art. 5 GDPR, Art. 6 GDPR",Italian Data Protection Authority (Garante),ITALY,2020-03-06,4000,Liceo Artistico Statale di Napoli,Non-compliance with lawful basis for data processing,13
+231,Art. 5 (1) f) GDPR,Spanish Data Protection Authority (AEPD),SPAIN,2020-03-09,15000,Gesthotel Activos Balagares,Non-compliance with lawful basis for data processing,23
+232,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Icelandic Data Protection Authority ('PersÄ‚Ĺ‚nuvernd'),ICELAND,2020-03-10,9000,BreiÄ‚Â°holt School,Failure to implement sufficient measures to ensure information security,12
+233,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Icelandic Data Protection Authority ('PersÄ‚Ĺ‚nuvernd'),ICELAND,2020-03-10,20600,Addiction Medicine Center,Failure to implement sufficient measures to ensure information security,12
+234,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Danish Data Protection Authority (Datatilsynet),DENMARK,2020-03-10,14000,Gladsaxe Municipality,Failure to implement sufficient measures to ensure information security,7
+235,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Danish Data Protection Authority (Datatilsynet),DENMARK,2020-03-10,7000,HÄ‚Â¸rsholm Municipality,Failure to implement sufficient measures to ensure information security,7
+236,"Art. 5 GDPR, Art. 6 GDPR, Art. 17 GDPR",Data Protection Authority of Sweden,SWEDEN,2020-03-11,7000000,Google,Failure to comply with data processing principles,24
+237,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2020-02-11,3000,Vodafone Romania,Failure to comply with data processing principles,21
+238,"Art. 6 GDPR, Art. 21 GDPR",Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2020-03-25,3000,eMag - Dante International,Non-compliance with lawful basis for data processing,21
+239,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2020-03-25,4150,Vodafone Romania,Failure to implement sufficient measures to ensure information security,21
+240,Art. 32 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2020-03-25,3000,Enel Energie,Failure to implement sufficient measures to ensure information security,21
+241,Art. 58 GDPR,Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP),ROMANIA,2020-03-25,2000,SOS Infertility Association,Non-cooperation with Data Protection Authority,21
+242,"Art. 15 (1), (3) GDPR",Croatian Data Protection Authority (AZOP),CROATIA,2020-03-13,0,Bank (unknown),Information obligation non-compliance,4
+243,Art. 5 (1) GDPR,Czech Data Protection Auhtority (UOOU),CZECH REPUBLIC,2019-03-21,10000,Unknown,Non-compliance with lawful basis for data processing,6
+244,Art. 5 (1) c) GDPR,Data Protection Authority of Saarland,GERMANY,2019-01-01,2000,Restaurant,Failure to comply with data processing principles,9
+245,"Art. 33 GDPR, Art. 34 GDPR",Data Protection Authority of Hamburg,GERMANY,2019-01-01,20000,https://datenschutz-hamburg.de/assets/pdf/28._Taetigkeitsbericht_Datenschutz_2019_HmbBfDI.pdf,Failure to implement sufficient measures to ensure information security,9
+246,"Art. 5 GDPR, Art. 32 GDPR",Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-04-04,80000,Company in the financial sector,Failure to implement sufficient measures to ensure information security,9
+247,"Art. 5 GDPR, Art. 6 GDPR",Data Protection Authority of Nordrhein-Westfalen,GERMANY,2019-08-05,200,Private person (YouTube-Channel),Failure to comply with data processing principles,9
+248,"Art. 5 GDPR, Art. 32 GDPR",Data Protection Authority of Baden-Wuerttemberg,GERMANY,2019-10-24,100000,Food company,Failure to implement sufficient measures to ensure information security,9
+249,"Art. 5 GDPR, Art. 6 GDPR, Art. 32 GDPR",Hellenic Data Protection Authority (HDPA),GREECE,2019-12-19,150000,Aegean Marine Petroleum Network Inc.,Failure to comply with data processing principles,10
